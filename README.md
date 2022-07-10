@@ -16,4 +16,4 @@ Final Model: Random Forest
 
 Link Repositori: https://github.com/anislf/final-project-kelompok-03-rauzan-sumara
 
-Link PPT: 
+Link PPT: https://github.com/anislf/final-project-kelompok-03-rauzan-sumara/blob/589d96be889a6a011523f21aa35080f613cc23f5/Final%20Project%20-%20Kelompok%2003.pptx
